@@ -12,6 +12,7 @@ const unsupportedFeatures = [
   "class-static-methods-private",
   "numeric-separator-literal",
   "optional-chaining",
+  "top-level-await"
 ];
 
 run(
