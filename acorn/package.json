@@ -1,5 +1,5 @@
 {
-  "name": "acorn",
+  "name": "fork-acorn-optional-chaining",
   "description": "ECMAScript parser",
   "homepage": "https://github.com/acornjs/acorn",
   "main": "dist/acorn.js",
